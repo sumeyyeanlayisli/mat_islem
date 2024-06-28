@@ -8,3 +8,4 @@ ekrana rastgele gelen dört işlmein sonucunu girdikten sonra doğru cevapta sko
 
 
 
+![WhatsApp Image 2024-06-28 at 19 35 12 (1)](https://github.com/sumeyyeanlayisli/mat_islem/assets/117297368/894dcea1-ceb6-436d-918b-b6405e9bd077)
