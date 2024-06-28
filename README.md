@@ -9,3 +9,8 @@ ekrana rastgele gelen islemlerin cevaplarını kutucuga girdigimizde verdigimiz 
 
 
 ![WhatsApp Image 2024-06-28 at 19 35 12 (1)](https://github.com/sumeyyeanlayisli/mat_islem/assets/117297368/894dcea1-ceb6-436d-918b-b6405e9bd077)
+
+degistir butonundan sorulari degistirebiliriz ve verdigimiz cevap yanlis ise de cevabımızın yanlis oldugu belirtilir ve skorumuz 1 azalir.
+
+
+asagida oyunun oynandıgı video bulunmaktadir.
